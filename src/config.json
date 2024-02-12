@@ -1,0 +1,8 @@
+{
+    "tileSize": 128,
+    "rows": 6,
+    "columns": 3,
+    "fps": 60,
+    "rockFallingTime": 10,
+    "restartTime": 10000
+}

@@ -1,0 +1,19 @@
+
+Current status 2/4/24
+
+Testing: Currently just running Liveserver and experimenting with functionality
+Implementation: Very much the same idea - utilizing similar codebase to suit our needs, in progress of react extension
+Deployment - currently non-react is deployed as github.io page
+
+Backlog
+add a HTML button, we could later define it's functionality when they give us the model
+
+the rock's droping rate is not fixed on different device, it's improtant to find a way to have a fix speed
+
+there is a bug for generating rocks, (or feature...) two rocks should be one row now are at different rows
+
+seperare config, and functions to different file.
+
+discuss which repo should we use and the manner in which we will branch>merge...
+
+Different objects/ Aesthetics
